@@ -4,10 +4,10 @@ config.py
 # Adding additional files.
 API_practice.ipynb
 random_numbers.ipynb
-config.py
 VacationPy.ipynb
 Untitled.ipynb
-
+../Vacation_Search/config.py
+../Vacation_Itinerary/config.py
 
 
 # Byte-compiled / optimized / DLL files
